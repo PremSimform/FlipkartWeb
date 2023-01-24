@@ -143,13 +143,12 @@ nav {
     width: 100%;
     justify-content: center;
     display: flex;
-    margin-top: 6px;
+    margin-top: 10px;
 }
 
 .advert img {
-    width: 98.5%;
-    /* margin-top: 10px; */
-    /* border: 1px solid; */
+    width: 98.75%;
+    margin-top: 10px;
 }
 
 * {
@@ -382,5 +381,5 @@ mt-3 {
 }
 
 .footer-section {
-    margin-top: 6px;
+    margin-top: 10px;
 }
